@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-14 16:25+0000\n"
-"PO-Revision-Date: 2025-04-19 17:45+0200\n"
+"PO-Revision-Date: 2025-08-19 19:48+0200\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Danish (Denmark)\n"
 "Language: da\n"
@@ -3519,17 +3519,14 @@ msgstr "Vælg spilopløsning:"
 msgid "Click to apply the selected resolution."
 msgstr "Klik for at godkende valgte opløsning."
 
-#, fuzzy
 msgid "Click to select the maximum amount."
-msgstr "Klik for at vælge denne klasse."
+msgstr "Klik for at vælge det maksimale antal."
 
-#, fuzzy
 msgid "Click to select the minimum amount."
-msgstr "Klik for at vælge denne klasse."
+msgstr "Klik for at vælge det minimale antal."
 
-#, fuzzy
 msgid "Click to apply the entered number."
-msgstr "Klik for at anvende den indtastede tekst."
+msgstr "Klik for at anvende det indtastede nummer."
 
 msgid "Click to apply the entered text."
 msgstr "Klik for at anvende den indtastede tekst."
@@ -3594,17 +3591,15 @@ msgstr "Klik for at indlæse et tidligere gemt spil."
 msgid "Click here if you wish to sort save files by their name."
 msgstr ""
 
-#, fuzzy
 msgid "Sort by Name"
-msgstr "Dit navn"
+msgstr "Sortér efter navn"
 
 msgid ""
 "Click here if you you wish to sort save files by their last modified date."
 msgstr ""
 
-#, fuzzy
 msgid "Sort by Date"
-msgstr "Støt os på"
+msgstr "Sortér efter dato"
 
 msgid "File to Save:"
 msgstr "Fil som skal gemmes:"
@@ -3722,9 +3717,8 @@ msgstr "Vælg Power Up-objekt:"
 msgid "Select Adventure Object:"
 msgstr "Vælg Eventyr-objekt:"
 
-#, fuzzy
 msgid "Select color"
-msgstr "Vælg væsen:"
+msgstr "Vælg farve"
 
 msgid "Players Icon"
 msgstr "Spiller-ikon"
@@ -4029,16 +4023,14 @@ msgstr "Borghær"
 msgid "Town Army"
 msgstr "Byhær"
 
-#, fuzzy
 msgid "Click to change the Castle name."
-msgstr "Klik for at ændre kortnavn."
+msgstr "Klik for at ændre borgnavnet."
 
 msgid "Enter Castle name"
 msgstr "Skriv borgnavn"
 
-#, fuzzy
 msgid "Reset the Castle name."
-msgstr "Mist borgen '%{name}'."
+msgstr "Nulstil borgnavnet."
 
 msgid "Allow to build a castle in this town."
 msgstr "Tillad borgbyggeri i denne by."
@@ -4057,13 +4049,11 @@ msgstr "Begræns bygningskonstruktion"
 msgid "Use default defenders army."
 msgstr "Brug standard forsvarshær."
 
-#, fuzzy
 msgid "Reset the army."
-msgstr "Bortvis denne hær."
+msgstr "Nulstil denne hær."
 
-#, fuzzy
 msgid "Set custom Castle Army."
-msgstr "Borghær"
+msgstr "Sæt brugerdefineret borghær."
 
 msgid "Click to accept the changes made."
 msgstr "Klik for at acceptere de foretagne ændringer."
@@ -4072,9 +4062,8 @@ msgstr "Klik for at acceptere de foretagne ændringer."
 msgid "Exit this dialog, discarding the changes made."
 msgstr "Klik for at acceptere de foretagne ændringer."
 
-#, fuzzy
 msgid "Castle Settings"
-msgstr "Spilindstillinger"
+msgstr "Borgindstillinger"
 
 msgid "Message Text:"
 msgstr "Tekstbesked:"
